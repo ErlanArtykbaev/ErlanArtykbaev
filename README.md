@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ErlanArtykbaev, Middle front-end develop
-- 👀 I’m interested in front-end (React), in future want to learn nest.js for backend
+- 👋 Hi, I’m @ErlanArtykbaev, front-end develop
+- 👀 I’m interested in front-end (React), in future want to learn rust
 - 📫 How to reach me here is my phone +996 703 411547 or email erlan.artykbaev@yahoo.com
 
 >A lot of things intermidating, but what isn't?
